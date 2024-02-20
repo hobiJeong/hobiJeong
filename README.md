@@ -20,7 +20,6 @@ hobiJeong 입니다. 👋
 
 ## 📫 Contact
 
-- Discord : nicodora
 - [hmm...](https://i.esdrop.com/d/f/WaaaCJFBsq/ABsz8K87Qv.png)
 
 ![hobiJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobiJeong&theme=tokyonight&show_icons=true)
