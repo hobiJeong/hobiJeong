@@ -20,6 +20,8 @@ hobiJeong 입니다. 👋
 
 ## 📫 Contact
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hobiJeong)](https://github.com/ryo-ma/github-profile-trophy)
+
 - [hmm...](https://i.esdrop.com/d/f/WaaaCJFBsq/ABsz8K87Qv.png)
 
 ![hobiJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobiJeong&theme=tokyonight&show_icons=true)
@@ -27,8 +29,6 @@ hobiJeong 입니다. 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=hobiJeong&theme=tokyonight)](https://git.io/streak-stats)
 
 ![hobiJeong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hobiJeong&theme=tokyo-night)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hobiJeong)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **hobiJeong/hobiJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
