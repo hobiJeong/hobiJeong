@@ -28,6 +28,8 @@ hobiJeong 입니다. 👋
 
 ![hobiJeong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hobiJeong&theme=tokyo-night)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hobiJeong)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **hobiJeong/hobiJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
