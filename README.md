@@ -20,7 +20,7 @@ hobiJeong 입니다. 👋
 
 ## 📫 Contact
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hobiJeong)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hobiJeong&theme=onedark&title=Commits,Reviews,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 - [hmm...](https://i.esdrop.com/d/f/WaaaCJFBsq/ABsz8K87Qv.png)
 
