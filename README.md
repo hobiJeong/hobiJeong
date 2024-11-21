@@ -2,6 +2,14 @@
 
 hobiJeong 입니다. 👋
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/hobiJeong"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 📖 My History
 
 | Date            | Organization                                                 | Position |
